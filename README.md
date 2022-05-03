@@ -16,6 +16,10 @@
 - MongoDB as the persistence layer for all these components. Database schema will be created through the Mongoose framework. 
 - Leaflet API as our Map service.
 
+### Video Presentation 
+
+https://drive.google.com/file/d/1Hqx8GFLmFvZrVX3cwyr3fvyhlMZTr60T/view?usp=sharing
+
 ## Project managment brief
 We chose to use the Scrum process for our project, with a rotating product owner and scrum master. The main structuring of the project journey took place on Trello(link), with cards that determined the different stages of our continuous development, e.g done, to-do etc. 
 
