@@ -18,7 +18,7 @@ This component works as the presentation layer for our distrubitued system and h
 ## Project setup
 - Git clone the repository 
 
-- Make sure you have setup the MQTT broker see wiki(https://git.chalmers.se/courses/dit355/test-teams-formation/team-14/documentation/-/wikis/Local-MQTT-Setup)
+- Make sure you have setup the MQTT broker see wiki(https://github.com/mandemmike/DENTHUB/wiki/Local-MQTT-Setup)
 
 Make sure, you are in the client directory `cd client`
 
